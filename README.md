@@ -10,4 +10,4 @@ For using this script you have to substitute three items in the script:
 #### Folder where to save the EML files
     $outputFolder: Output folder. Must exist prior the script execution.
 #### Outlook folder
-Line 52:  Export-EmailsToEML -folderPath "<Outlook_Foder>": This references to the folder where the emails are stored inside the PST. This usually is "Inbox" or "Sent Items". If you want to export from other folders (e.g. Sent, Drafts, etc.), call the function again with different folder names.
+$Line 52:  Export-EmailsToEML -folderPath "<Outlook_Foder>": This references to the folder where the emails are stored inside the PST. This usually is "Inbox" or "Sent Items". If you want to export from other folders (e.g. Sent, Drafts, etc.), call the function again with different folder names.
