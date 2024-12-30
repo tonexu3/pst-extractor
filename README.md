@@ -1,7 +1,7 @@
 # pst-extractor
 This script allows you to extract each file from PST as a separated files, normalizing the names of the files and using is subject as file names.
 
-First of all, import your PST to Outlook and keep it open.
+First of all, import your PST to Outlook and keep it open. You can use this PST for testing purposes: https://github.com/aspose-email/Aspose.Email-for-Java/blob/master/Examples/src/main/resources/outlook/sample.pst
 
 For using this script you have to substitute three items in the script:
 
